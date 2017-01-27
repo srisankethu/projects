@@ -1,4 +1,4 @@
-coala 2017 Application Template
+coala Application Template
 ===============================
 
 ```
@@ -9,30 +9,29 @@ Student Info
 - GitHub username:
 - Alternative-/Nickname:
 - Email:
-- Which country will you reside in during the summer?
+- Which country will you reside in during the project?
 - Which city (or other geographical boundary you feel comfortable sharing)?
 - Time Zone:
-- GSoC blog RSS feed URL: (You will have to write a blog post every
-  week during GSoC.)
+- Blog RSS feed URL:
 
 
-Code Sample
------------
+OSS contributions
+-----------------
 
-Link all your contributions to coala and any other open source project here.
-For example, to list your contributions to coala you can mention:
+We are interested in your contributions to open source projects. This is the
+place to list them. To limit this part, please list no more than five
+PRs/ contributions per section, so chose your most interesting ones.
 
-- https://github.com/coala/coala/commits/master?author=YOUR_USER_NAME
-  for coala repo
-- https://github.com/coala/coala-bears/commits/master?author=YOUR_USER_NAME
-  for coala-bears repo
+Contributions to coala:
+This includes every contribution to a repository of the coala organization.
 
-You may also mention specific issues/commits using the commit id if you want
-us to take a look at that.
+coala related contributions:
+This includes all contributions to a dependency of coala project, including
+any planned projects
 
-You will have to finish the coala newcomer guide to be accepted:
-http://coala.io/newcomer
-
+other contributions:
+This includes all contributions to open source projects that don't fit into
+the first two categories.
 
 Project Info
 ------------
@@ -98,7 +97,8 @@ Extra Information
 This additional information isn't needed by coala but can help us to learn
 more about you. All fields in this section are optional.
 
-- Link to resume:
+- Link to openhub profile:
+  (https://openhub.net is a nice way to showcase all your oss contributions)
 - University info
     - University name:
     - Major:
